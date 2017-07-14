@@ -1098,6 +1098,8 @@ ul {
   }
   .partners a {
     margin-right: 0;
+    display: inline-block;
+    vertical-align: top;
   }
   .secondary-nav {
     margin-left: 0;
